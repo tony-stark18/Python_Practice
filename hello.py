@@ -5,7 +5,3 @@
 # print("Remainder when ",a,"is devided by 2 is ",int(a)%2)
 # int=10.0;
 # print(type(int))
-x="My"
-y='name'
-z='is Ak'
-print(x+' ' +y+' '+ z)
