@@ -7,7 +7,7 @@ print(list[0:2])
 #Give 0th and 1st index here 2nd index will not be included
 
 print(list[:2])
- #This is as same as the upper code
+ #This is as same as the above code
 
 print(list[2:len(list)]) 
 #This will print from 2nd index to last index
@@ -42,4 +42,5 @@ list.pop(0)
 print(list)
 
 list.remove(90)
+#remove function deletes an element using it's value
 print(list)
