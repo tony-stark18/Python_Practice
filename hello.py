@@ -15,12 +15,12 @@
 # print("The average of the above two numbers",avg/2)
 # a=str(input("Enter your name:"))
 # print("Good Evening",a)
-# text="Saale teri to behni ki"
+# text="Google is love"
 # x=text.find("  ")
 # if(x>0):
 #     print("It contains \"  \" ")
 # else:
 #     print("It doesn't contain \"  \" ")
-text="Saale teri to  behni ki"
+text="Diptiranjan Sahoo"
 print(text.replace("  ","_"))
 
